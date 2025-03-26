@@ -1,3 +1,5 @@
+// ignore_for_file: use_build_context_synchronously, use_key_in_widget_constructors
+
 import 'package:login_register_with_firebase/app/widgets/custom_button.dart';
 import 'package:login_register_with_firebase/app/widgets/custom_textfield.dart';
 import 'package:flutter/material.dart';

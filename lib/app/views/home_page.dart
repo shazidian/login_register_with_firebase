@@ -1,3 +1,5 @@
+// ignore_for_file: use_key_in_widget_constructors
+
 import 'package:flutter/material.dart';
 import '../services/auth_service.dart';
 
@@ -17,7 +19,7 @@ class HomePage extends StatelessWidget {
           ),
         ],
       ),
-      body: const Center(child: Text('Welcome to Home bro!')),
+      body: const Center(child: Text('Yey! Haloo, selamat ya!')),
     );
   }
 }
